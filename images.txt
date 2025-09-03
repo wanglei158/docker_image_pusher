@@ -5,5 +5,6 @@ xhofe/alist:latest
 hello-world
 xhongc/music_tag_web
 cp0204/quark-auto-save
+openlistteam/openlist
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
