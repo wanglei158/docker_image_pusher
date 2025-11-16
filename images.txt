@@ -3,7 +3,7 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 hello-world
-xhongc/music_tag_web
+xhongc/music_tag_web:latest
 cp0204/quark-auto-save
 openlistteam/openlist
 fooololo/aipan-netdisk-search
